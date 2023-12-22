@@ -1,0 +1,18 @@
+.themeButton {
+    display: flex;
+    background-color: #656464a6;
+    border: 1px solid transparent;
+    border-radius: 60px;
+    box-shadow: rgb(102, 100, 100) 3px 4px 10px 0px;
+    cursor: pointer;
+    margin-bottom: 8px;
+    margin-top: -10px;
+    margin-left: -10px;
+    font-size: 30px;
+    padding: 5px;
+    /* right: 20px; */
+    /* justify-content: center; */
+    /* line-height: 1.25;
+    margin: 30px;
+    padding: 12px 40px; */
+}
